@@ -1,0 +1,17 @@
+html,body{
+    background-color: #21232A;
+    color: white;
+    font-family: fantasy;
+    font-size: 1.3rem;
+    padding: 70px;
+}
+
+button{
+    padding: 10px;
+    border:  none;
+    border-radius: 4px;
+    background-color: transparent;
+    color: white;
+    border: 3px solid rgb(11, 143, 11);
+    margin: 5px;
+}
