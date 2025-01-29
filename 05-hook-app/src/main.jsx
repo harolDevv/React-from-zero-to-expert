@@ -8,9 +8,11 @@ import CounterWhitCustomHook from './01-useState/CounterWhitCustomHook'
 import HooksApp from './HooksApp'
 
 import './index.css'
+import { Padre } from '../07-tarea-memo/Padre'
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <CounterWhitCustomHook />
+    <Padre/>
   </React.StrictMode>,
 )
